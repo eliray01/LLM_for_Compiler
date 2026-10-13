@@ -2,7 +2,9 @@
 
 Experiment code for evaluating language models on **LLVM IR peephole optimization**, with formal verification via [Alive2](https://github.com/AliveToolkit/alive2).
 
-This repository contains the supporting materials for the dissertation *Towards LLM-Based Compiler Optimization* (Emil Fakhretdinov).
+This repository contains the supporting materials for the dissertation *Enabling reasoning mechanisms in Small Language Models for compiler optimizations* (Emil Fakhretdinov).
+
+Dissertation PDF: [`Emil_Fakhretdinov_240897244_Dissertation.pdf`](./Emil_Fakhretdinov_240897244_Dissertation.pdf)
 
 ## Overview
 
