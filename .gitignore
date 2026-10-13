@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Notebooks / experiment noise
+.ipynb_checkpoints/
+logs/
+wandb/
+*.log
+
+# HuggingFace datasets cache shards (keep main data + metadata)
+processed_data/cache-*.arrow
+
+# Local results
+*_results.csv
+*_results_cot.csv
+instruction_scores.jsonl
+best_instruction.txt
+
+# Large HF shard (over GitHub 100MB limit) — see README
+processed_data/data-*.arrow

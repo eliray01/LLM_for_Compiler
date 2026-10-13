@@ -1,0 +1,17 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "1467810d782b4e3e",
+  "_format_columns": [
+    "LLVM_instcombine",
+    "non_optimized",
+    "prompt"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
