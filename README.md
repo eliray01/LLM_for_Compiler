@@ -31,6 +31,7 @@ Models are prompted (or fine-tuned) to transform unoptimized LLVM IR into optimi
 │   └── Distilled/         # Distilled reasoning models
 ├── rl/                    # Reinforcement learning prototypes
 ├── processed_data/        # HuggingFace dataset (unopt / opt IR pairs)
+├── Emil_Fakhretdinov_240897244_Dissertation.pdf
 ├── requirements.txt
 └── README.md
 ```
@@ -107,7 +108,7 @@ RL notebooks under `rl/` are exploratory and incomplete.
 
 If you use this code, please cite the associated dissertation / course submission:
 
-**Emil Fakhretdinov** — *Towards LLM-Based Compiler Optimization* (Supporting Materials).
+**Emil Fakhretdinov** — *Enabling reasoning mechanisms in Small Language Models for compiler optimizations*.
 
 ## License
 
